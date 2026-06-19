@@ -322,23 +322,23 @@ Potential enhancements include:
 
 ### Executive Overview
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](<img width="1357" height="757" alt="Executive_Overview" src="https://github.com/user-attachments/assets/6b60edfe-ecce-497d-be36-71090d79829a" />)
 
 ### Clinical Analytics
 
-![Clinical Analytics](images/clinical_analytics.png)
+![Clinical Analytics](<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />)
 
 ### Lifestyle Risk Analytics
 
-![Lifestyle Risk Analytics](images/lifestyle_analytics.png)
+![Lifestyle Risk Analytics](<img width="1336" height="757" alt="Lifestyle_Risk_Dashboard" src="https://github.com/user-attachments/assets/fee295af-dc4c-4626-82ef-e08df78c1c7c" />)
 
 ### Operational Analytics
 
-![Operational Analytics](images/operational_analytics.png)
+![Operational Analytics](<img width="1332" height="741" alt="Operational_Analytics_Dashboard" src="https://github.com/user-attachments/assets/59db66ee-7571-4ab8-9e68-e9289865b8bb" />)
 
 ### Data Quality & Risk Segmentation
 
-![Data Quality](images/data_quality.png)
+![Data Quality](<img width="1323" height="747" alt="Data Quality_risk_segmentation" src="https://github.com/user-attachments/assets/e4816dd5-059d-4f99-8ec4-6b9efb35cdab" />)
 
 ---
 
@@ -355,8 +355,8 @@ Specializing in:
 * Data Protection & Privacy
 * Quality Management Systems
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: *(www.linkedin.com/in/bright-twumasi-a7573290)*
 
 Portfolio: *(Add your portfolio URL)*
 
-Website: *(Add BrightData Consult URL)*
+Website: *(www.brightdataconsult.com)*
