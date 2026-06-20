@@ -333,24 +333,24 @@ Potential enhancements include:
 
 ### Executive Overview
 
-![Executive Overview](<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/8012cd14-30bf-496a-b0ea-2add867460de" />
-)
+![<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/0461bf4f-75b1-4c4b-82a0-d8d75bc30ce4" />
+]
 
 ### Clinical Analytics
 
-![(<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />)
+![<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />]
 
 ### Lifestyle Risk Analytics
 
-![Lifestyle Risk Analytics](<img width="1336" height="757" alt="Lifestyle_Risk_Dashboard" src="https://github.com/user-attachments/assets/fee295af-dc4c-4626-82ef-e08df78c1c7c" />)
+![<img width="1336" height="757" alt="Lifestyle_Risk_Dashboard" src="https://github.com/user-attachments/assets/fee295af-dc4c-4626-82ef-e08df78c1c7c" />]
 
 ### Operational Analytics
 
-![Operational Analytics](<img width="1332" height="741" alt="Operational_Analytics_Dashboard" src="https://github.com/user-attachments/assets/59db66ee-7571-4ab8-9e68-e9289865b8bb" />)
+![<img width="1332" height="741" alt="Operational_Analytics_Dashboard" src="https://github.com/user-attachments/assets/59db66ee-7571-4ab8-9e68-e9289865b8bb" />]
 
 ### Data Quality & Risk Segmentation
 
-![Data Quality](<img width="1323" height="747" alt="Data Quality_risk_segmentation" src="https://github.com/user-attachments/assets/e4816dd5-059d-4f99-8ec4-6b9efb35cdab" />)
+![<img width="1323" height="747" alt="Data Quality_risk_segmentation" src="https://github.com/user-attachments/assets/e4816dd5-059d-4f99-8ec4-6b9efb35cdab" />]
 
 ---
 
