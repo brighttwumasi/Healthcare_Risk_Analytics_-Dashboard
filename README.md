@@ -27,6 +27,17 @@ This project aims to answer critical questions such as:
 
 ---
 
+## Business Impact
+
+This dashboard enables healthcare stakeholders to:
+
+- Identify high-risk patient populations.
+- Monitor disease prevalence and demographic trends.
+- Understand the impact of lifestyle factors on health outcomes.
+- Evaluate operational performance through Length of Stay analysis.
+- Support proactive interventions through risk segmentation and correlation insights.
+
+
 ## Dataset Information
 
 The dataset contains approximately **30,000 patient records** and includes demographic, clinical, lifestyle, and operational health indicators.
@@ -158,13 +169,14 @@ Patients were grouped into:
 
 Provides a high-level summary of:
 
-* Total Patients
-* Average Age
-* Average Length of Stay
-* Gender Distribution
-* Disease Prevalence
-* Healthy vs Diseased Population
-* Risk Category Distribution
+- Total Patients
+- Average Age
+- Average Length of Stay
+- Gender Distribution
+- Disease Prevalence
+- Healthy vs Diseased Population
+- Risk Category Distribution
+- Key Clinical and Lifestyle Correlations
 
 ---
 
@@ -220,20 +232,21 @@ Documents:
 
 ---
 
-## Correlation Analysis
+### Correlation Insights
 
-A correlation matrix was developed to identify relationships among key clinical and lifestyle indicators.
+To support analytical storytelling, a correlation analysis was conducted to identify the strongest relationships among clinical and lifestyle variables.
 
-### Key Findings
+The strongest relationships were highlighted directly within the Executive Overview dashboard to provide stakeholders with immediate visibility into key health drivers.
 
-| Relationship                   | Correlation |
-| ------------------------------ | ----------- |
-| Glucose ↔ HbA1c                | 0.62        |
-| Physical Activity ↔ Diet Score | 0.47        |
-| HbA1c ↔ Diet Score             | -0.35       |
-| Physical Activity ↔ BMI        | -0.35       |
-| Diet Score ↔ Glucose           | -0.31       |
-| Age ↔ Blood Pressure           | 0.30        |
+Key findings included:
+
+| Relationship | Correlation |
+|-------------|------------|
+| Glucose ↔ HbA1c | 0.62 |
+| Physical Activity ↔ Diet Score | 0.47 |
+| HbA1c ↔ Diet Score | -0.35 |
+| Physical Activity ↔ BMI | -0.35 |
+| Diet Score ↔ Glucose | -0.31 |
 
 ### Insights
 
@@ -318,15 +331,14 @@ Potential enhancements include:
 
 ## Dashboard Preview
 
-*(Insert dashboard screenshots here)*
-
 ### Executive Overview
 
-![Executive Overview](<img width="1357" height="757" alt="Executive_Overview" src="https://github.com/user-attachments/assets/6b60edfe-ecce-497d-be36-71090d79829a" />)
+![Executive Overview](<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/8012cd14-30bf-496a-b0ea-2add867460de" />
+)
 
 ### Clinical Analytics
 
-![Clinical Analytics](<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />)
+![(<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />)
 
 ### Lifestyle Risk Analytics
 
@@ -339,6 +351,17 @@ Potential enhancements include:
 ### Data Quality & Risk Segmentation
 
 ![Data Quality](<img width="1323" height="747" alt="Data Quality_risk_segmentation" src="https://github.com/user-attachments/assets/e4816dd5-059d-4f99-8ec4-6b9efb35cdab" />)
+
+---
+
+## Key Achievements
+
+- Processed and analyzed 30,000 healthcare records.
+- Developed custom Cardiac Risk and Lifestyle Risk scoring frameworks.
+- Built five interactive dashboard pages.
+- Conducted correlation analysis to identify key health risk drivers.
+- Created an executive-level reporting solution for healthcare decision-making.
+- Applied Power Query, DAX, and data modeling best practices.
 
 ---
 
