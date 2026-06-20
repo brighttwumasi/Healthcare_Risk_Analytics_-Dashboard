@@ -382,22 +382,22 @@ Potential enhancements include:
 
 ### Clinical Analytics
 
-[<img width="1332" height="748" alt="Clinical Analytics" src="https://github.com/user-attachments/assets/f9a8e3a4-bb50-4e7e-90ac-a6cf608fcedc" />]
+<img width="1332" height="748" alt="Clinical Analytics" src="https://github.com/user-attachments/assets/f9a8e3a4-bb50-4e7e-90ac-a6cf608fcedc" />
 
 
 ### Lifestyle Risk Analytics
 
-[<img width="1333" height="747" alt="Lifestyle Risk Analytics" src="https://github.com/user-attachments/assets/0656c774-2618-43c9-9f08-4045454f2e17" />]
+<img width="1333" height="747" alt="Lifestyle Risk Analytics" src="https://github.com/user-attachments/assets/0656c774-2618-43c9-9f08-4045454f2e17" />
 
 
 ### Operational Analytics
 
-[<img width="1337" height="747" alt="Operational Metrics Dashboard" src="https://github.com/user-attachments/assets/6d73faa8-b80c-40a5-a0e9-fcae68ddb9f1" />]
+<img width="1337" height="747" alt="Operational Metrics Dashboard" src="https://github.com/user-attachments/assets/6d73faa8-b80c-40a5-a0e9-fcae68ddb9f1" />
 
 
 ### Data Quality & Risk Segmentation
 
-[<img width="1327" height="746" alt="Data Quality   Risk Segmentation" src="https://github.com/user-attachments/assets/34c31efd-ec36-424b-97c5-b5579fc1ff40" />]
+<img width="1327" height="746" alt="Data Quality   Risk Segmentation" src="https://github.com/user-attachments/assets/34c31efd-ec36-424b-97c5-b5579fc1ff40" />
 
 ---
 
