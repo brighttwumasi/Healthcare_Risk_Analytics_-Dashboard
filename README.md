@@ -1,6 +1,5 @@
 # Healthcare_Risk_Analytics_Dashboard
 End-to-end Healthcare Risk Analytics Dashboard built with Power BI, Power Query, and DAX to analyze patient risk factors, clinical indicators, lifestyle behaviors, and operational healthcare outcomes.
-# Healthcare Analytics Dashboard
 
 ## Project Overview
 
@@ -37,6 +36,42 @@ This dashboard enables healthcare stakeholders to:
 - Evaluate operational performance through Length of Stay analysis.
 - Support proactive interventions through risk segmentation and correlation insights.
 
+---
+
+## Repository Structure
+
+├── Data
+│   └── Healthcare Dataset.xlsx
+│
+├── Dashboard
+│   └── Healthcare Risk Analytics Dashboard.pbix
+│
+├── Images
+│   ├── Executive Overview.png
+│   ├── Clinical Analytics.png
+│   ├── Lifestyle Risk Analytics.png
+│   ├── Operational Analytics.png
+│   └── Data Quality & Risk Segmentation.png
+│
+└── README.md
+
+---
+
+## Project Workflow
+
+Raw Healthcare Dataset
+↓
+Power Query (Cleaning & Transformation)
+↓
+Data Modeling
+↓
+DAX Measures & Risk Scoring
+↓
+Interactive Dashboard Development
+↓
+Healthcare Risk Insights & Decision Support
+
+---
 
 ## Dataset Information
 
@@ -333,24 +368,27 @@ Potential enhancements include:
 
 ### Executive Overview
 
-![<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/0461bf4f-75b1-4c4b-82a0-d8d75bc30ce4" />
-]
+[<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/9ae4fb8f-5a42-4b67-8569-31c816fbd9ec" />]
+
 
 ### Clinical Analytics
 
-![<img width="1330" height="747" alt="Clinical_Analytics_Dashboard" src="https://github.com/user-attachments/assets/7bc6a018-3db9-459e-8b4d-b7c0bcc6e84d" />]
+[<img width="1332" height="748" alt="Clinical Analytics" src="https://github.com/user-attachments/assets/f9a8e3a4-bb50-4e7e-90ac-a6cf608fcedc" />]
+
 
 ### Lifestyle Risk Analytics
 
-![<img width="1336" height="757" alt="Lifestyle_Risk_Dashboard" src="https://github.com/user-attachments/assets/fee295af-dc4c-4626-82ef-e08df78c1c7c" />]
+[<img width="1333" height="747" alt="Lifestyle Risk Analytics" src="https://github.com/user-attachments/assets/0656c774-2618-43c9-9f08-4045454f2e17" />]
+
 
 ### Operational Analytics
 
-![<img width="1332" height="741" alt="Operational_Analytics_Dashboard" src="https://github.com/user-attachments/assets/59db66ee-7571-4ab8-9e68-e9289865b8bb" />]
+[<img width="1337" height="747" alt="Operational Metrics Dashboard" src="https://github.com/user-attachments/assets/6d73faa8-b80c-40a5-a0e9-fcae68ddb9f1" />]
+
 
 ### Data Quality & Risk Segmentation
 
-![<img width="1323" height="747" alt="Data Quality_risk_segmentation" src="https://github.com/user-attachments/assets/e4816dd5-059d-4f99-8ec4-6b9efb35cdab" />]
+[<img width="1327" height="746" alt="Data Quality   Risk Segmentation" src="https://github.com/user-attachments/assets/34c31efd-ec36-424b-97c5-b5579fc1ff40" />]
 
 ---
 
@@ -378,8 +416,6 @@ Specializing in:
 * Data Protection & Privacy
 * Quality Management Systems
 
-LinkedIn: *(www.linkedin.com/in/bright-twumasi-a7573290)*
+LinkedIn: LinkedIn: [Bright Twumasi](https://www.linkedin.com/in/bright-twumasi-a7573290)
 
-Portfolio: *(Add your portfolio URL)*
-
-Website: *(www.brightdataconsult.com)*
+Website: [BrightData Consult](https://www.brightdataconsult.com)
