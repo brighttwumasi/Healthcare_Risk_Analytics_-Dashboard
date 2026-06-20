@@ -377,7 +377,7 @@ Potential enhancements include:
 
 ### Executive Overview
 
-[<img width="1355" height="760" alt="Executive Overview" src="https://github.com/user-attachments/assets/9ae4fb8f-5a42-4b67-8569-31c816fbd9ec" />]
+<img width="1351" height="753" alt="image" src="https://github.com/user-attachments/assets/581a7d08-f866-45eb-bd43-66b4deaa0f93" />
 
 
 ### Clinical Analytics
