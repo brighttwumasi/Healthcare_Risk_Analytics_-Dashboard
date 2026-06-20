@@ -40,6 +40,9 @@ This dashboard enables healthcare stakeholders to:
 
 ## Repository Structure
 
+```text
+Healthcare-Risk-Analytics-Dashboard
+│
 ├── Data
 │   └── Healthcare Dataset.xlsx
 │
@@ -54,22 +57,28 @@ This dashboard enables healthcare stakeholders to:
 │   └── Data Quality & Risk Segmentation.png
 │
 └── README.md
+```
 
 ---
 
 ## Project Workflow
 
-Raw Healthcare Dataset
-↓
-Power Query (Cleaning & Transformation)
-↓
-Data Modeling
-↓
-DAX Measures & Risk Scoring
-↓
-Interactive Dashboard Development
-↓
-Healthcare Risk Insights & Decision Support
+
+```mermaid
+flowchart TD
+    A[Raw Healthcare Dataset]
+    B[Power Query<br/>Cleaning & Transformation]
+    C[Data Modeling]
+    D[DAX Measures & Risk Scoring]
+    E[Interactive Dashboard Development]
+    F[Healthcare Risk Insights & Decision Support]
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+```
 
 ---
 
